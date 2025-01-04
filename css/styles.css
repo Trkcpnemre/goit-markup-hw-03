@@ -168,7 +168,7 @@ body {
   
   
   .sectionfirst-ul .firstsec-list {
-    width: calc((100% - 72px) / 4);
+    width: calc((100% - 3 * 24px) / 4);
     list-style: none;
   }
   .feature {
@@ -204,7 +204,7 @@ body {
     list-style: none;
   }
   .section-second .team-member {
-    width: calc((100% - 72px) / 4);
+    width: calc((100% - 3 * 24px) / 4);
     border-radius: 0px 0px 4px 4px;
   }
   .info {
