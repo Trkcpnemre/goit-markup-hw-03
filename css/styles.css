@@ -234,6 +234,10 @@ body {
     margin-bottom: 72px;
     text-align: center;
   }
+  .op-line-title{
+    margin-bottom: 8px;
+  }
+  
   .op-ul {
     display: flex;
     flex-wrap: wrap;
