@@ -168,7 +168,7 @@ body {
   }
   
   
-.firstsec-list {
+  .section-first.firstsec-list {
     width: calc((100% - 72px) / 4);
   }
 
@@ -237,7 +237,7 @@ body {
   .op-line-title{
     margin-bottom: 8px;
   }
-  
+
   .op-ul {
     display: flex;
     flex-wrap: wrap;
